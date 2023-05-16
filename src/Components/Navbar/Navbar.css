@@ -1,0 +1,22 @@
+
+.Link{
+    text-decoration: none;
+}
+
+h2{
+    text-decoration: none;
+    color: aliceblue;
+    list-style: none;
+}
+
+.Option{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+.Option:hover{
+    color: red;
+}
+
+
